@@ -1,0 +1,470 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>1.  GCC-NLM Professional Development Repository</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m37008</md:content-id>
+  <md:title>1.  GCC-NLM Professional Development Repository</md:title>
+  <md:abstract>An online repository of the NLM Professional Development modules is presented. The target audience consists of Biomedical Informatics graduates and postdoctoral fellows, however, anyone is welcome to use the online materials for their self-development  or for the benefit of their students with due credit being given to the authors/speakers. Thank you.
+To search within this page, most browsers will support "ctrl-f" or 'Edit-Find'. Try it!</md:abstract>
+  <md:uuid>5cd51926-7214-4e33-bf9e-b24a482f945c</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="example">
+      <link url="https://owlspace-ccm.rice.edu/portal" strength="3">Course COMP 573 -login using: comp-student; comp-password</link>
+      <link url="" strength="2"/>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+
+
+    <para id="id1164048953859"><emphasis effect="bold">Gulf Coast Consortia NLM Professional Development (GCC-NLMPD) Curriculum for Biomedical Informatics Graduates </emphasis>
+    </para>
+
+
+    <table id="id1164035789090" summary=""><tgroup cols="3">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <tbody>
+          <row>
+            <entry>Main Idea</entry>
+            <entry>Specific Topics</entry>
+            <entry>Credit</entry>
+          </row>
+          <row>
+            <entry namest="c1" nameend="c3">
+              <emphasis effect="bold">LEADERSHIP </emphasis>
+            </entry>
+          </row>
+<row>
+            <entry> What I wish I Knew When I was 20 </entry>
+            <entry> 
+<link url="http://ecorner.stanford.edu/authorMaterialInfo.html?mid=2266" window="new"> What I Wish I Knew at 20 </link> - An overview of a wonderful book with this title. Talk about the importance of seeing problems as an opportunity, and of the importance of not burning bridges. Wonderful bits of advice that you don't always receive in life, but wish you had. </entry>
+            <entry> Stanford - Tina Seelig </entry>
+          </row>
+          <row>
+            <entry morerows="3">Developing a Lab </entry>
+            <entry> 
+<link url="http://cnx.org/content/m33896/latest/" window="new"> Leading </link> - Offers guidelines for leading an effective research team, including a look at the role of lab directors. Includes tips on developing a vision or mission statement, directing and motivating people, and managing projects.  </entry>
+            <entry> Rice ADVANCE </entry>
+          </row>
+ <row>
+           
+            <entry> 
+ <link url="http://www.scribd.com/doc/2544488/Staffing-the-Lab-Perspectives-from-Both-Sides-of-the-Bench" window="new"> Staffing a Lab </link> - This online book provides useful information and advice for staffing your research lab, and is available for free download. Sections include advice on hiring postdocs and technicians and choosing the best postdoctoral position. </entry>
+            <entry> Burroughs Wellcome </entry>
+          </row>
+ <row>
+          
+            <entry> 
+<link url="http://videocast.nih.gov/Summary.asp?File=12484" window="new"> Interviewer Skills </link>  - This workshop provides basic techniques and evaluation procedures used to screen for the best candidates</entry>
+            <entry> NIH video (1 hr)  </entry>
+          </row>
+          <row>
+            <entry><link url="http://sciencecareers.sciencemag.org/career_development/previous_issues/articles/1680/toolkit_designing_your_laboratory/" window="new">Designing Space </link> - Advice on construction of a new lab, and tips on storing and disposing of chemicals according to local rules and regulations.</entry>
+            <entry>Science Magazine Online</entry>
+          </row>
+          <row>
+            <entry morerows="12">Management skills for Research</entry>
+            <entry><link url="http://cnx.org/content/m37012/latest/" window="new"> Setting Up Your First Lab </link> - Tips regarding the overall vision as well as potential personnel, equipment, and/or budget issues. Also gives a brief look into the daily life of an assistant professor and tips on gaining visibility. <newline/>
+<link url="http://bit.ly/jje7OG" window="new"> Setting Up Your Lab Video (1 hr) </link><link url="http://cnx.org/content/m41611/latest/" window="new"> (Video Transcript)  </link> </entry>
+            <entry> Rebekah Drezek &amp; GCC-NLMPD - Brendan Lee</entry>
+          </row>
+          <row>
+            <entry><link url="http://sourcebook.od.nih.gov/ethic-conduct/Conduct%20Research%206-11-07.pdf" window="new">Compliance </link> – A downloadable PDF version of the Guidelines for the Conduct of Research in the Intramural Research Program at NIH. </entry> <entry> NIH </entry> </row>
+<row><entry> <link url="http://www.nap.edu/openbook.php?record_id=5140" window="new">Animal </link> - The primary reference for use and care of laboratory animals in research, and is intended to assist investigators in fulfilling their obligation to plan and conduct animal experiments in accord with the highest scientific, humane, and ethical principles.</entry> <entry>Institute of Laboratory Animal Resources, Commission on Life Sciences (National Research Council)  </entry> </row>
+<row>
+<entry><link url="http://www.research.uci.edu/ora/hrpp/definition.htm#Definition" window="new">Human subjects </link> - Provides a definition of human subjects research, as well as a brief overview of what educational activities do and do not constitute such research. </entry> <entry> Research Administration, UC Irvine </entry> </row>
+<row><entry><link url="http://www.hhs.gov/ocr/privacy/" window="new">  HiPAA </link> - links to the main page for HiPAA information at HiPAA.org. Includes information regarding the law, the DHHS, identifiers, transactions, and more. Also provides additional resources. </entry><entry>HiPAA.org </entry> </row>
+<row><entry><link url="http://www.research.uci.edu/ora/hrpp/definition.htm" window="new"> IRB </link> - Provides information on which activities require IRB Review.</entry><entry>Research Administration, UC Irvine </entry> </row>
+<row><entry> <link url="http://www.fda.gov/default.htm" window="new"> FDA </link> - links to the main page for the Food and Drug Administration, under the US Department of Health and Human Services (HHS).  Includes information for scientists, researchers, and the general public.</entry>
+            <entry> FDA </entry>
+          </row>
+          <row>
+            <entry><link url="http://spac.ucdavis.edu/forms/leadership_tips/running_fun_and_effective_meetings.pdf" window="new"> Running meetings </link>- Gives advice on how to run fun and effective lab meetings. Includes tips on preparation and activities before, during, and after the meeting. </entry>
+            <entry>AntLeader Leadership Series, UC Irvine </entry>
+          </row>
+          <row>
+            <entry><link url="http://www.microsoft.com/education/competencies/comp_motivatingothers.mspx" window="new">Motivating Others</link> - focuses on the best way to motivate those around you to become happier, more efficient workers. Includes a chart of proficiency levels; how not to 'overdo it' in your motivation; essential questions you should ask yourself regarding motivation and improving efficiency; good interview questions to ask to evaluate the motivation level of prospective employees; and tips for learning on the job. A list of recommended reading is also included for further study.</entry>
+            <entry> Microsoft Education </entry>
+          </row>
+          <row>
+            <entry><link url="http://www.managementhelp.org/commskls/feedback/basc_gde.htm" window="new"> Employee Feedback </link> - suggestions about giving effective feedback to employees and co-workers. Also includes a list of recommended books to increase leadership and interpersonal skills.</entry>
+            <entry>New York Univ. HR </entry>
+          </row>
+          <row>
+            <entry><link url="http://www.cnr.berkeley.edu/ucce50/ag-labor/7article/article40.htm" window="new">Listening skills</link> - Advises on the role of the empathetic listener in helping others to see past any negative and/or stressful emotions, coining the phrase “listening first aid.”
+Includes free downloads of a 1 hr long seminar on listening skills (.mp3)</entry>
+            <entry> Gregorio Billikopf,UC-Davis</entry>
+          </row>
+          <row>
+            <entry><link url="http://www.epmbook.com/team.htm" window="new">Communicating in teams</link> - Focuses on team building, collaboration, and communication and is directed towards project managers. Includes tips on building a collaborative team, ideas for mobilizing the team via team building and social events, concepts such as Management By Walking About (MBWA), and advice for verbal and non-verbal communication with team members. </entry>
+            <entry> Simon Wallace </entry>
+          </row>
+          <row>
+            <entry><link url="http://www.inc.com/articles/2000/06/19312.html" window="new">Change communications </link>- This link provides ten key things to keep in mind when planning, announcing, implementing, and communicating a change initiative.</entry>
+            <entry> Sarah Fenson, Inc. </entry>
+          </row>
+          <row>
+            <entry morerows="2">Management skills for Industry</entry><entry><link url="https://www.training.nih.gov/writing_professional_e-mail" window="new">Writing effective emails </link> - A concise summary of guidelines for writing professional emails.  </entry> <entry> NIH</entry>
+          </row>
+
+            
+ <row> <entry><link url="http://performance-appraisals.org/Bacalsappraisalarticles/articles/comstrat.htm" window="new">Internal correspondence </link> - Gives pointers as to how best to use internal communication at work to create a company culture and common goal. </entry><entry> Bacal and Associates </entry> </row>
+<row><entry><link url="http://www.deathbyemail.com/2008/12/10-things-never-to-put-in-email.html" window="new"> What not to say by email </link> - States 10 brief points to not put in an email.</entry> <entry> Roger Matus </entry> </row>
+            
+          <row>
+            <entry morerows="3">Mentoring Skills</entry>
+            <entry><link url="http://www.researchmentortraining.org" window="new">Being a mentor</link> <space> </space> - How to improve your mentoring skills and explores issues that affect the research mentoring relationship. Includes free training materials and pre-made or custom curricula. <link url="http://wmdp.rice.edu/NaturalScience/KeckCenter/Sem/KeckSem-11Feb11/KeckSem-11Feb11.mp4"> (Mentor Relations Video - 1hr)</link> <link url="http://bit.ly/uWdbAi"> (Mentor-Mentee Expectations Video - 1 hr)</link></entry>
+
+            <entry>Chris Pfund <newline/>+ Gayle Slaughter <newline/> + Carrie Cameron </entry>
+          </row>
+          <row>
+            <entry> <link url="https://www.aamc.org/initiatives/gradcompact/" window="new"> Mentor-BioMedical Graduate Compact </link> - downloadable compacts for mentor-graduate relationships. These compacts include summaries of one's role and commitments as a graduate student, postdoc, or mentor.</entry>
+            <entry> AAMC </entry> 
+          </row>
+ <row>
+            <entry> <link url="https://www.aamc.org/initiatives/49784/postdoccompact/" window="new"> Mentor-Postdoc Compact</link> - downloadable compacts for mentor-postdoc relationships. These compacts include summaries of one's role and commitments as a graduate student, postdoc, or mentor.</entry>
+            <entry> AAMC </entry> 
+          </row>
+          <row>
+            <entry> <link url="http://www.cnr.berkeley.edu/ucce50/ag-labor/7conflict/" window="new">Conflict Management </link> - Free download of the book Party-Directed Mediation: Helping Others Resolve Differences (2nd Edition) as a PDF file. This book includes ideas for improving management of deep-seated interpersonal conflict through sound, research-based ideas.</entry>
+            <entry>Gregorio Billikopf, Univ. of California-Davis </entry>
+          </row>
+          <row>
+            <entry namest="c1" nameend="c3">
+              <emphasis effect="bold">STRATEGY</emphasis>
+            </entry>
+          </row>
+          <row>
+            <entry morerows="9">Grant Writing</entry>
+            <entry> Obtaining Funding:<link url="http://cnx.org/content/m37150/latest/" window="new"> Introduction </link> - An overview of grant writing, this page includes tips on how to write a successful proposal, be a competitive applicant, and obtain funding. Also includes general outline of review criteria for NIH and common grant requirements. <newline/> 
+<link url="http://cnx.org/content/m38302/latest/" window="new"> Grant Writing: K99/R00 and R01</link> - Slides from a workshop by this title. Talks about the mandatory and optional/supplemental form and how to obtain them, requirements for R01, overview and requirements of the Pathway to Independence (K99/R00) awards. <newline/>  <link url="http://bit.ly/kWEpTB" window="new"> Video (2.5 hrs) </link> <link url="http://cnx.org/content/m41666/latest/" window="new"> Video Transcript </link> </entry> <entry> GCC-NLMPD - Phyllis McBride </entry> 
+</row>
+<row><entry>  <link url="http://bit.ly/zMoFAq" window="new"> Small Grants R03 and Specific Aims </link> - A video (1.25 hrs) of the R03 grant application, followed by reviewing 1-page Specific Aims </entry> <entry> GCC-NLMPD Phyllis McBride</entry> </row> 
+
+<row><entry><link url="http://www.nlm.nih.gov/ep/NLM_EP-Webinar9_22_11.pdf" window="new"> NLM Career Awards in Biomedical Informatics</link> - Slides from the NIH-NLM webinar by this title.  </entry> <entry>NIH</entry> </row>  
+<row><entry><link url="http://bit.ly/etaEf3" window="new"> (Video) </link> - A video of a 2 hr workshop on Introduction to Grant Writing</entry>   <entry> GCC-NLMPD - Phyllis McBride</entry></row>
+<row><entry><link url="http://cnx.org/content/m37014/latest/" window="new"> Tips </link> - A general advice page on obtaining grant funding, including tips for successful proposal writing and funding agencies to consider.</entry> <entry> Rice ADVANCE </entry>  </row>
+<row><entry>  <link url="http://cnx.org/content/m19394/latest/" window="new"> NIH-Grants </link> - Includes general tips for applying for an NIH grant, specialty programs/awards for early-career scientists, and web resources.</entry> <entry>Rice ADVANCE </entry> </row>
+<row><entry>  <link url="http://www.niaid.nih.gov/researchfunding/grant/pages/appsamples.aspx" window="new"> Sample R01 Applications </link> - Four samples of exemplary R01 applications with the research strategy </entry> <entry> NIH</entry> </row>           
+       
+          <row>
+            <entry><link url="http://videocast.nih.gov/podcast/oite/oite062910/oite062910.mp4" window="new">Grant reviews</link> - Video (.mp4 file) on the grant review process. </entry>
+            <entry> NIH Video (2hr 25 min) </entry>
+          </row>
+          <row>
+            <entry><link url="http://www.malwarwick.com/mals-corner/askmal/donordevelopment.html" window="new">Dealing with Development &amp; Donors </link> - A webpage with FAQs on donor development.</entry>
+            <entry> Mal Warwick Associates </entry>
+          </row>
+ <row>
+            <entry> <link url="http://ori.dhhs.gov/education/products/rcradmin/glossary.shtml" window="new">Research Administration Terminology  </link> - Provides a glossary of research administration terms, many of which include relevant links for further study.</entry>
+            <entry>RCR Administrators</entry>
+          </row>
+          <row>
+            <entry morerows="4">Networking</entry>
+           
+   
+            <entry><link url="http://cnx.org/content/m37088/latest/" window="new"> Professional Societies </link> - The value of joining Professional Societies is discussed briefly. A list of some important Professional Societies in various fields associated with the broad area of Biomedical Informatics is presented.</entry>
+            <entry> GCC-NLMPD - Sujata Krishna </entry>
+          </row>
+          <row>
+            <entry><link url="http://www.successfulmeetings.com/Event-Planning/Conferences/Articles/How-to-Design-a-Networking-Friendly-Conference/" window="new">Networking at Conferences and Meetings </link> - Advice on designing a network-friendly conference, including tips for reminding attendees of the “networking basics.”</entry>
+            <entry>Ed Bernacki </entry>
+          </row>
+          <row>
+            <entry> <link url="http://cnx.org/content/m37016/latest/" window="new">Social Fluency</link> - Includes an introduction to social fluency, and tips on preparing for a network event and building your network over time. </entry> <entry>GCC-NLMPD - Beth O’Sullivan</entry>
+          </row>
+<row><entry><link url="https://www.training.nih.gov/generating_networking_contacts" window="new"> List of Contacts </link> - A concise overview for generating a list of networking contacts.</entry><entry> NIH materials </entry></row>
+           
+          <row>
+            <entry><link url="http://implicit.harvard.edu/implicit/demo/" window="new"> Implicit Association</link>,<link url="http://videocast.nih.gov/ram/oite032509.ram" window="new"> Professional Etiquette </link> - Presents a method, called the Implicit Association Test (IAT), that demonstrates conscious-unconscious divergences much more convincingly than has been possible with previous methods. Includes free implicit association tests as part of on-going research.</entry>
+            <entry> NIH Materials </entry>
+          </row>
+          <row>
+            <entry namest="c1" nameend="c3">
+              <emphasis effect="bold">DECISION MAKING</emphasis>
+            </entry>
+          </row>
+          <row>
+            <entry morerows="14">Career Pathways</entry>
+<entry><link url="http://calnewport.com/blog/" window="new"> Decoding Patterns of Success</link> - This blog talks about how to succeed in your work and about time management. His thesis is that setting out to find your passion and then working in that area is the wrong way round, you must first work hard at things that interest you and bring further interesting opportunities and the passion will develop. </entry> <entry> Study Hack, Cal Newport, Ph.D.</entry>
+</row>
+<row>
+<entry><link url="http://videocast.nih.gov/summary.asp?Live=10055" window="new"> Planning Your Career: Satisfaction and Success</link> - The workshop provides insight into planning a job search, finding jobs, and using internet and community resources. Topics include self-assessment, transferable skills, networking, defining success, personal needs, work/life balance, and defining short-term and long-term goals. </entry> <entry> NIH video (2 hrs)</entry>
+</row>
+<row>
+            <entry><link url="http://www.bbc.co.uk/news/world-us-canada-15197932" window="new"> Advice on how to choose a career</link> -  Succinct general advice on how to choose your life's work</entry>
+            <entry> Steve Jobs </entry>
+          </row>
+<row>
+            <entry><link url="www.nature.com/scitable/topicpage/panel-discussions-13909630" window="new"> Informational Interviews and Job Shadowing</link> -  Advice on what to ask at an informational interview</entry>
+            <entry> Nature Scitable </entry>
+          </row>
+<row>
+            <entry><link url="http://bit.ly/iuCCzf" window="new"> Plotting Your Career in Biomedical Informatics</link> -  Deals with terminology in the field and what to think about when deciding your career in this field.</entry>
+            <entry> GCC-NLMPD Ted Shortliffe </entry>
+          </row>
+          <row>
+            <entry><link url="http://www.quintcareers.com/career_plan.html" window="new"> Short- &amp; Long-term planning</link> - Provides advice for those seeking a job after undergraduate education, as well as on short-term and long-term career planning.</entry>
+            <entry> Quintessential Careers </entry>
+          </row>
+          <row>
+            <entry> <link url="http://cnx.org/content/m37011/latest/" window="new"> Career Pathways in Biomedical Informatics (Video Vignettes)</link> - consists of five video vignettes that offer a peek into the career paths of some individuals in the Biomedical Informatics area, including an assistant professor, a technical writer, and PhD and MD researchers working in a clinical lab setting.</entry>
+            <entry> GCC_NLMPD - Sujata Krishna + Gale Wiley </entry>
+          </row>
+          
+          <row>
+            <entry><link url="http://videocast.nih.gov/summary.asp?Live=8661" window="new">Obtaining and Negotiating a Position in Industry </link> - Advises on the best way to negotiate a position in industry. Topics include what to look for in a job offer as well as understanding the new team environment.</entry>
+            <entry>NIH video (1.5 hr) </entry>
+          </row>
+         <row>
+            <entry> <link url="http://www.insidehighered.com/advice/2011/06/01/essay_on_picking_a_postdoc_position#Comments" window="new"> A Fitting Postdoctoral Position</link>- An brief article about issues to consider when choosing a post-doctoral position. See comments on the article, as they are valuable advice. </entry>
+            <entry> Inside Higher Ed </entry>
+          </row>
+<row>
+            <entry> <link url="http://cnx.org/content/m36864/latest/" window="new"> An Academic Career</link>- Summary of a keynote presentation regarding careers in academia. Includes suggested reading, advantages of working in academia, and common fears when deciding such a career path.</entry>
+            <entry> Rice ADVANCE </entry>
+          </row>
+ <row>
+            <entry><link url="http://cnx.org/content/m36874/latest/" window="new"> Dossier for Faculty Applications</link> - Advises on what you need in your dossier, teaching and research personal statements etc.</entry>
+            <entry> Stanford University</entry>
+          </row>
+          <row>
+            <entry><link url="http://studentaffairs.stanford.edu/sites/default/files/cdc/files/DossierPreparation_05-06.pdf" window="new"> Obtaining a Faculty Position in HE </link> - Includes tips on the application itself, research and teaching statements, and how to make your application stand out.</entry>
+            <entry> Rice ADVANCE </entry>
+          </row>
+ <row>
+            <entry><link url="http://cnx.org/content/m19388/latest/" window="new">Negotiating a Faculty Position in HE </link> - Introduces the reader to things to consider when negotiating a start-up package in the science and engineering fields, including research lab equipment/space and teaching assignments. <newline/> <link url="http://cnx.org/content/m43411/latest/" window="new">Sample Cover Letters for a Faculty Position </link>  </entry>
+            <entry>GCC_NLMPD </entry>
+          </row>
+          <row>
+            <entry> <link url="http://cnx.org/content/m38087/latest/" window="new">Tenure &amp; promotion criteria</link> <space> </space> <link url="http://bit.ly/hOGhiQ" window="new"> (Video - 1 hr) </link> - Gives advice regarding the university promotion and tenure process to graduate students and post-docs who aspire to academic faculty positions.  Includes tips on dossier preparation and how to best market your research, teaching, and service experience. </entry>
+            <entry> Rice ADVANCE </entry>
+          </row>
+<row>
+            <entry><link url="http://videocast.nih.gov/summary.asp?Live=11059" window="new">Negotiating a Job Offer (Non-Academic) </link> - A video talking about how to negotiate an offer that is for a non-academic job. <newline/>  </entry>
+            <entry> NIH video (78 min) </entry>
+          </row>
+
+          <row>
+            <entry morerows="7">Ethics</entry>
+            <entry><link url="http://ori.hhs.gov/education/products/plagiarism/" window="new">Plagiarism </link> -Includes a module to help students and professionals identify and prevent plagiarism and other questionable writing practices, and to develop an awareness of ethical writing. Includes sections on plagiarism, self-plagiarism, and the lesser crimes of writing.  </entry>
+            <entry>Office of Research Integrity, HHS </entry>
+          </row>
+          <row>
+            <entry><link url="http://ori.hhs.gov/TheLab/TheLabGuide.pdf" window="new">Research misconduct</link> - This 26 page PDF involves a Virtual Experience Interactive Learning Simulation (VEILS) program, in which participants will assume one of four playable roles: a graduate student, a postdoctoral student, a principal investigator, or a research integrity officer. In each segment, the character has to make decisions about how to handle possible research misconduct. </entry><entry>Office of Research Integrity, HHS  </entry>
+          </row>
+<row>
+            <entry><link url="http://www.koocher.com/images/RRW_7-17-10.pdf" window="new">Respond to Research Wrongdoing</link> - A user-friendly guide to how to respond to research wrongdoing. </entry><entry> American Association for the Advancement of Science </entry>
+          </row>
+<row><entry><link url="http://videocast.nih.gov/summary.asp?Live=9435" window="new"> Responsible Research </link> - On the subject of dual use research, including public health and national security concerns.</entry><entry> NIH video (2 hr 28 min) </entry></row>
+            
+          <row>
+            <entry><link url="http://www.apa.org/science/leadership/care/index.aspx" window="new">Animal–based research</link> - This page from the APA outlines the goals of the Committee on Animal Research and Ethics (CARE). Also includes related resources, annual reports, and contact information.</entry>
+            <entry>American Psychological Association </entry>
+          </row>
+          <row>
+            <entry><link url="http://videocast.nih.gov/summary.asp?Live=9410" window="new"> Medical Ethics </link> - Ethical challenges at the intersection of clinical research and clinical practice.</entry><entry> NIH video(1 hr) </entry> </row>
+<row>
+            <entry> <link url="http://videocast.nih.gov/summary.asp?Live=9628" window="new"> Exploitation </link> - Focuses on the ethical and regulatory aspects of clinical research, including research protocols, informed consent, and controversial issues relating to human subject research. </entry> <entry>NIH video (2 hr 28 min) </entry></row>
+<row>
+            <entry><link url="http://videocast.nih.gov/summary.asp?Live=9412" window="new"> Professionalism in Medicine </link> - Focuses on using two traditions of open ocean navigation to increase moral development and professionalism in medicine. </entry>
+            <entry> NIH video(1 hr) </entry>
+          </row>
+          <row>
+            <entry namest="c1" nameend="c3">
+              <emphasis effect="bold">INNOVATION</emphasis>
+            </entry>
+          </row>
+ <row>
+            <entry morerows="3">Innovation</entry>
+<entry> <link url="http://bit.ly/vG3EI0" window="new"> From Academia to Your Own Start-Up </link> <link url="http://cnx.org/content/m43325/latest/" window="new"> (Video Transcript) </link> - An example of an academic who successfully starts-up his own Biotech company </entry>
+            <entry> GCC_NLMPD - Glauco Souza </entry>
+</row>
+<row>
+            <entry> <link url="http://www.ted.com/talks/charles_leadbeater_on_innovation.html" window="new"> On Innovation </link> - 19 min video by Charles Leadbeater on innovation, patents and copyrights and open-source, shared innovation. </entry>
+            <entry> TED </entry>
+          </row>
+<row>
+            <entry> <link url="http://videocast.nih.gov/summary.asp?Live=10366" window="new"> On Innovation </link> - Crowdsourcing and open innovation. </entry>
+            <entry> NIH video </entry>
+          </row>
+<row>
+            <entry> <link url="http://ecorner.stanford.edu/authorMaterialInfo.html?mid=1527" window="new"> License to Pursue Dream </link> - Marissa Mayer on the effects of Google's 20% employee time for working on their own projects. </entry>
+            <entry> Stanford video </entry>
+          </row>
+          <row>
+            <entry morerows="2">Research Ideas</entry>
+            <entry> <link url="http://bit.ly/x9t8U6" window="new"> Creativity and Paradigms </link> A talk about 5 spokes in the creative wheel: Challenge, Autonomy, Purpose, Mastery and Tools.</entry>
+            <entry> GCC_NLMPD - Tom Kraft </entry>
+          </row>
+<row>
+            <entry> <link url="http://www.microsoft.com/education/competencies/comp_creativity.mspx" window="new"> Creativity </link> - Focuses on the best way to instill creativity in yourself and those around you. Includes a chart of proficiency levels; how not to 'overdo it' in your creativity; essential questions you should ask yourself regarding creativity and improving efficiency; good interview questions to ask to evaluate the creativity level of prospective employees; and tips for learning on the job. A list of recommended reading is also included for further study.</entry>
+            <entry> Microsoft Education </entry>
+          </row>
+<row>
+            <entry> <link url="http://bit.ly/KbLADk" window="new"> Critical Reading of Medical and Scientific Literature</link> - This workshop provides examples of how best to analyze scientific literature as you read it. Strategies for reading papers regularly, making notes etc. are provided.</entry>
+            <entry> GCC-NLMPD - Gayle Slaughter  </entry>
+          </row>
+          <row>
+            <entry morerows="2">Scientific Curiosity</entry>
+            <entry><link url="http://bit.ly/iHKuWI" window="new">Bringing an idea to the market (video 1hr) </link>  –  patents, licensing and income issues are discussed and a timeframe suggested.</entry> 
+            <entry> GCC-NLMPD - Larry Hope </entry>
+          </row>
+<row><entry><link url="http://www.fspat.com/utility_model.html" window="new">Utility Model </link> - A brief summary of the function of a utility model, including what it can protect, how it can be invalidated, and the difference between a utility model and a patent. </entry> <entry> Forssen and Salomaa Oy </entry></row>
+<row><entry><link url="http://rph.stanford.edu/5-1.html" window="new"> Technology transfer issues </link> - This website gives the policy and procedures at Stanford university. It may be studied as an example of how technology transfer is dealt with at a university.</entry> <entry> Stanford University Website </entry></row>
+           
+          <row>
+            <entry namest="c1" nameend="c3">
+              <emphasis effect="bold">EXECUTION</emphasis>
+            </entry>
+          </row>
+          <row>
+<entry morerows="4">
+Writing skills
+</entry>
+           
+            <entry><link url="http://www.grad.wisc.edu/education/gspd/dwgstarterkit.pdf" window="new">Dissertation </link>- Concrete tips in a starter-kit on how to get a Dissertation Writing Group together and how to keep it going</entry>
+            <entry> University of Wisconsin </entry>
+          </row>
+<row>
+            <entry><link url="http://bit.ly/vtUUDJ" window="new">Writing a Paper for Nature </link> <link url="http://cnx.org/content/m43326/latest/" window="new"> (video transcript) </link> From the perspective of two professors who have published several articles together in the journal Nature or Science, they reveal how to adjust ones writing style to such a journal. Includes detailed comments on student abstracts. </entry>
+            <entry>GCC_NLMPD Shaulsky and Kuspa </entry>
+          </row>
+          <row>
+            <entry><link url="http://www.ruf.rice.edu/~bioslabs/tools/report/reportform.html" window="new">Scientific Papers </link>, <link url="http://sacnas.org/content/writing-effective-abstract" window="new"> Abstracts</link>- This link provides step-by-step help for writing a research paper.  This in-depth video covers each of the components of a strong abstract, including title, intro, thesis, materials and methods, results, summary, and conclusion. </entry>
+            <entry>SACNAS </entry>
+          </row>
+         <row>
+            <entry><link url="http://www.scidev.net/en/practical-guides/how-do-i-write-a-scientific-paper-.html" window="new">Writing a Scientific Paper </link>, <link url="http://www.scidev.net/en/practical-guides/how-do-i-submit-a-paper-to-a-scientific-journal-.html" window="new"> How To Submit a Paper to a Journal</link>- This link provides tips for how best to present your research results for publication and how to submit the paper.</entry>
+            <entry>Science and Development Network </entry>
+          </row>
+          
+ <row>
+            <entry><link url="http://www.cs.pomona.edu/~markk/cs121.s07/supp/teams.html" window="new">Writing as a Team </link> - A summary of the tips for team work and team writing. </entry>
+            <entry>GCC-NLMPD - Beth O’Sullivan</entry>
+          </row>
+          
+          <row>
+            <entry/>
+            <entry><link url="http://www.oit.umn.edu/tech-brief/social-media/index.htm" window="new">Use of new media </link> – While few Universities have a formal policy on the use of new media this link provides some insight into the issue.</entry>
+            <entry>University of Minnesota </entry>
+          </row>
+          <row>
+            <entry morerows="12">Communication skills</entry>
+            <entry><link url="http://bit.ly/f0zP3C">Communication strategy </link> - Helps you think about your goals and motivations in choosing how best to communicate.</entry>
+            <entry>AHRQ </entry>
+          </row>
+<row>
+            <entry><link url="http://bit.ly/xNv2Dq" window="new">Elevator Talks</link> <newline/>
+<link url="http://bit.ly/rY1dkz" window="new">Five Minute Presentations</link> </entry>
+            <entry> GCC_NLMPD Tom Kraft </entry>
+          </row>
+          <row>
+            <entry><link url="http://cnx.org/content/m36873/latest/" window="new">Technical Presentations</link></entry>
+            <entry> Rice ADVANCE</entry>
+          </row>
+ <row>
+            <entry><link url="http://bit.ly/x5Ck0S" window="new">Citing from Twitter</link></entry>
+            <entry> The Atlantic</entry>
+          </row>
+          <row>
+            <entry><link url="http://videocast.nih.gov/launch.asp?16513" window="new">Designing a Presentation</link></entry>
+            <entry> NIH Training video (2.24 hr.min) </entry>
+          </row>
+          <row>
+            <entry><link url="http://videocast.nih.gov/launch.asp?16513" window="new">Presenting seminars</link> - This link provides instructions on how to capture and hold your audience’s attention, what should be included on your slides, how much text, and which font and illustration should be used on your presentation.</entry>
+            <entry> NIH video(1 hr) </entry>
+          </row>
+          <row>
+            <entry><link url="http://videocast.nih.gov/summary.asp?Live=9360" window="new">Poster presentation skills</link> - This presentation focuses on selecting and organizing data, what to include and what not to include, the key components of a successful poster, lay-out and font selection, and poster presentation.<link url="http://bit.ly/mmVztI" window="new">Poster Design video (1 hr)</link> </entry>
+            <entry>NIH Video (1 hr)+  GCC Workshop video </entry>
+          </row>
+          <row>
+            <entry><link url="http://sciencecareers.sciencemag.org/career_magazine/previous_issues/articles/2008_09_12/caredit.a0800134" window="new">Dealing with the Media - Your Work in the Headlines</link> - This link provides information on why you should agree to an interview, what could go wrong in an interview, and how to prepare for good media interactions.</entry>
+            <entry>Elisabeth Pain </entry>
+          </row>
+          <row>
+            <entry><link url="http://www.aresearchguide.com/3tips.html" window="new">Public speaking about your research</link> - Tips on public speaking</entry>
+<entry>Dewey Decimal Classification </entry>
+</row>
+<row>
+<entry><link url="http://www.nature.com/scitable/topicpage/chairing-sessions-13908566" window="new">Chairing a Conference Session</link> Introducing speakers, managing time, managing questions </entry>
+<entry> Nature Scitable </entry>
+</row>
+<row>
+<entry><link url="http://www.nature.com/scitable/topicpage/panel-discussions-13909630" window="new"> Panel Discussions </link> Preparing a panel, moderating the discussion</entry>
+<entry> Nature Scitable </entry>
+</row>
+<row>
+<entry><link url="http://www.ou.edu/class/bc2813/PresentationTips/10TipsFromThePros.htm" window="new">Team presentation skills </link> - Brief but informative list originally published in the January 1998 issue of Presentations magazine gives 10 team presentation tips from the pros.  </entry>
+            <entry>Jon Hanke </entry>
+          </row>
+          
+          <row>
+            <entry><link url="http://ctl.stanford.edu/further-ctl-resources.html" window="new">Teaching </link>– University Teaching and Learning Center offers a handbook for teaching, tip and advice on what works </entry>
+            <entry> Stanford University </entry>
+          </row>
+          <row>
+            <entry morerows="11">Networking Skills</entry>
+            <entry><link url="http://videocast.nih.gov/summary.asp?Live=10113" window="new">CV and resume </link> - This workshop highlights the critical elements and structure of both CVs and resumes. These important job documents serve as the foundation for all job searches, and knowing how to create them based on the employment sector and published position description is essential.  </entry><entry>NIH </entry>
+</row> 
+<row><entry><link url="http://www.nature.com/scitable/topicpage/thank-you-letter-13989101" window="new"> Formal Letters, </link> - A brief introduction to writing formal letters such as cover letters, focusing on their content and tone </entry><entry>Nature Scitable </entry></row>
+<row><entry><link url="http://videocast.nih.gov/Summary.asp?File=14776" window="new">Cover Letters, </link> - Focuses on cover letter and resume construction targeted towards industry jobs.</entry><entry>NIH </entry></row>
+<row><entry><link url="http://www.nature.com/scitable/topicpage/formal-letters-13988017" window="new"> Thank You Letter </link> - How to write a thank you note after a job interview, and how to accept or decline an offer in writing. </entry><entry>Nature Scitable </entry></row>
+<row><entry><link url="https://www.training.nih.gov/assets/Interviewing_Handout.pdf" window="new"> Interview Preparation </link> - Invaluable for anyone preparing for an employment interview in academia or industry. Includes sample lists of questions asked by employers, behavior-based questions, questions asked for academic positions, and questions you can ask your interviewer. Also includes a basic list of interviews do’s and don’t’s. </entry>
+            <entry> NIH Materials- video (65 min) </entry>
+          </row>
+          <row>
+            <entry><link url="http://cnx.org/content/m36869/latest/" window="new">Interviewing Skills</link> - Summarizes a panel discussion on how to stand out during the faculty candidate interview process. Includes advice on preparing for the interview, preparing your questions, and what to do after the interview is over. 
+<link url="http://bit.ly/lBHGno" window="new">Interviewing Skills video (1.5 hrs)</link>
+</entry>
+<entry> GCC-NLMPD - Gayle Slaughter (video) </entry>
+</row>
+<row><entry><link url="http://videocast.nih.gov/Summary.asp?File=14792" window="new"> (video)</link> - focuses on hot to give an outstanding, memorable job talk for a variety of audiences. Learn important elements to be included in any job talk, tips on giving a successful academic "chalk talk," how to structure your talk for your specific audience, and more!</entry><entry>NIH Video(2 hr) </entry></row>
+<row> <entry><link url="http://www.quintcareers.com/behavioral_interviewing.html" window="new"> Behavioral Interviews </link> - This webpage describes behavioral interviews and where they are used. Links to sample questions.  </entry><entry>Quintessential Careers </entry></row>
+<row> <entry><link url="http://videocast.nih.gov/Summary.asp?File=14806" window="new"> Interview for Industry </link> - Summarizes a panel discussion on how to maximize the impact of your faculty candidate interview seminar. Includes advice on what to know before your visit, how to handle yourself during the visit and departmental talk, and how to tackle hard questions.</entry>
+            <entry> Rice ADVANCE, NIH video (1hr:47 min) </entry>
+          </row>
+  <row>
+            <entry><link url="http://cnx.org/content/m36865/latest/" window="new">Interview Seminar</link> <link url="http://videocast.nih.gov/Summary.asp?File=14583" window="new"> (video)</link> -The video provides strategies on how to maximize the impact of your interview seminar. </entry>
+            <entry> Rice ADVANCE, NIH Video (2 hrs) </entry>
+          </row>
+          <row>
+           
+            <entry><link url="http://videocast.nih.gov/podcast/oite/oite011410/oite011410.mp4" window="new">Evaluating Positions and Negotiating a Job Offer</link> - This video provides networking skills, particularly position evaluation and job offer negotiation.</entry>
+            <entry>NIH </entry>
+          </row>
+          <row>
+           
+            <entry><link url="http://www.youtube.com/user/jonesgraduateschool#g/c/01D470865EA983AC" window="new">Elevator Talk </link> - Links to a YouTube channel of business proposal ‘elevator pitches’ - approximately one minute long speeches – given by students competing in the 2011 Rice Business Plan Competition. </entry>
+            <entry> Rice University</entry>
+          </row>
+          <row>
+            <entry morerows="1">Time Management</entry>
+            <entry><link url="http://cnx.org/content/m37116/latest/" window="new">Prioritizing, Making Timelines </link> - provides a brief overview of time management, including advice on clarifying your goals, delegating successfully, and managing procrastination and stress. Also included is a link to Randy Pausch's talk on time management.<newline/>
+<link url="http://bit.ly/lWf2SC" window="new"> Time Management video (1hr) </link> - Based on David Allen's 'Getting Things Done'  </entry><entry> GCC-NLMPD- Sujata Krishna  <newline/> GCC_NLMPD- Marie Wehrung</entry></row>
+<row><entry><link url="http://videocast.nih.gov/podcast/oite/oite120908/oite120908.mp4" window="new"> Setting Goals </link> - This video provides information on how to set goals to maximize productivity and to effectively manage time. </entry><entry> NIH video (1hr, 40 min)</entry>
+            
+          </row>
+          <row>
+            <entry morerows="1">Collaboration</entry>
+            <entry><link url="https://ccrod.cancer.gov/confluence/display/NIHOMBUD/Home" window="new">Collaboration and Team Science </link> - Pertinent questions regarding your readiness to participate in and/or lead a successful research team. The project seeks to discover a set of best practices for collaborations among NIH scientists and researchers and offers a free Team Science Field Guide.</entry>
+            <entry> NIH: Bennett, Gadlin and Levine-Finley </entry>
+          </row>
+          <row>
+            <entry><link url="http://www.ohrd.wisc.edu/onlinetraining/resolution/index.asp" window="new">Conflict Resolution </link> - This webpage provides information on common conflict and steps for conflict resolution.<link url="http://bit.ly/ma4Jhu" window="new"> Conflict Resolution video(2 hrs) </link>.<link url="http://cnx.org/content/m41551/latest/" window="new"> Video Transcript</link> </entry>
+       
+            <entry>University of Wisconsin + GCC_NLMPD- Mikki Hebl. </entry>
+          </row>
+        </tbody>
+      </tgroup>
+    
+
+</table><para id="eip-502"><title>Acknowledgement</title>The project described was supported by Award Number T15LM007093 from the National Library of Medicine. The content is solely the responsibility  of the authors and does not necessarily represent the official views of the National Library of Medicine or the National Institutes of Health.</para><para id="id1164031356298"/>
+  </content>
+</document>
